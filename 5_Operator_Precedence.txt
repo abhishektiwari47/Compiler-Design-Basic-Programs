@@ -1,0 +1,2 @@
+Enter the string
+i*(i+i)*i

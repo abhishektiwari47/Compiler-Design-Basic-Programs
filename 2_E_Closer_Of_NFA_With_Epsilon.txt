@@ -1,0 +1,18 @@
+Enter the number of states: 3
+Enter name of state 0 : A
+Enter name of state 1 : B
+Enter name of state 2 : C
+Enter the number of Transitions: 5
+Enter the transition
+A 0 A
+A 1 B
+A e B
+B 1 C
+B e C
+
+
+
+###OUTPUT###
+E-closer for A = {ABC}
+E-closer for B = {BC}
+E-closer for C = {C}

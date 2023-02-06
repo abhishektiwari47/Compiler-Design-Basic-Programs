@@ -1,0 +1,10 @@
+Enter N
+3
+1. Loop Roll 
+2. Loop UnRoll 
+
+Enter ur choice
+2
+
+no of iterations 1
+Loop UnRoll: Count of 1's :2
